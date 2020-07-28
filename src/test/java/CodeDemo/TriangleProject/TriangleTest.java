@@ -10,7 +10,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;;
  * Junit test for @see {@link Triangle} class.
  */
 class TriangleTest {
-
     /**
      * Testing the method @see {@link Triangle#Create(double, double, double)} throws the expected error message.
      * @param side1 The first side of a triangle.

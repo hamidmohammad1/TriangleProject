@@ -14,9 +14,7 @@ public final class App {
      */
     public static void main(String[] args)
     {
-        double side1;
-        double side2;
-        double side3;
+        double side1, side2, side3;
 
         System.out.println("\nThis program will determine the type of a triangle based on the lengths of the sides.\n"); 
 
